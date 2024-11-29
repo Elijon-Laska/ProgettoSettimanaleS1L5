@@ -1,0 +1,108 @@
+
+        body {
+            color: #393d41;
+            font-size: 1.5rem;
+            line-height: 1.65;
+            font-family: 'Open Sans', sans-serif;
+        }
+
+ 
+    
+
+
+
+   header {background-color: black;
+    align-content:center;
+    padding: 2rem 10rem;
+    }
+
+   
+
+
+    
+  
+        
+        h1, h3 {
+            color: #25a2c3;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            line-height: 1.5;
+        }
+        
+        footer {
+            background-color: #349ebb;
+        }
+        
+        footer h2 {
+            color: white;
+        }
+        
+        footer ul li a {
+            color: #c8e7f0;
+        }
+    
+        nav {
+            background-image: url(/Esercizio/images/banner.jpg);
+            background-size: cover;
+            height: 200px;
+            width: 100%;
+        }
+        
+        aside {
+            background-color: #e22d0e;
+            color: white;
+            margin: 30px auto;
+        }
+        
+        button {
+            background-color: #f04c2f;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: bold;
+            color: white;
+            border: none;
+       
+        }
+        
+        .testimonianze {
+            color: #e22d0e;
+        }
+        
+    div img {
+            width: 65%;
+            height: auto;
+            border: hidden;
+            border-radius: 50%;
+            margin: auto;
+            display: grid;
+            place-items: center;
+            padding: 2rem;
+        }
+        
+        .bordiquadranti1 {
+            width: 400px;
+            margin: 30px auto;
+            display: block;
+            text-align: center;
+            box-sizing: border-box;
+            border: 0.5px solid rgb(182, 182, 182);
+        }
+        
+        .bordiquadranti1 img {
+            width: 100%;
+            height: auto;
+            margin-bottom: -4px;
+        }
+        
+        .bordiquadranti1 h3, .bordiquadranti1 p {
+            padding: 10px;
+        }
+        
+        .partesuperiore {
+            width: 400px;
+            margin: 30px auto;
+            display: block;
+            text-align: center;
+            box-sizing: border-box;
+            border: none
+        }
+        }
